@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi, I'm Vachana A 👋  
-### AI & Machine Learning Undergraduate | AI Developer | Hackathon Winner  
+# Hi, I’m Vachana 👋  
+### AIML Student | Curious Builder | Hackathon Enthusiast  
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320" />
+<img src="https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/female/68.png" width="260"/>
 
 </div>
 
@@ -11,66 +11,46 @@
 
 ## 💫 About Me  
 
-🎓 B.E. in **Artificial Intelligence & Machine Learning**  
-📍 Bangalore Institute of Technology (BIT) | Class of 2026  
+I’m a **6th-semester AIML student at BIT**, Bangalore, who genuinely enjoys learning by building things.  
+I like experimenting with **AI, data, and logic**, and I’m especially interested in how tech can solve **real, everyday problems**.
 
-I’m passionate about building **AI-driven systems** that solve real-world problems.  
-From **predicting user churn** to **AI-assisted surgical training**, I enjoy turning ideas into impactful products.
+Hackathons excite me because they push me to think fast, collaborate, and turn ideas into working systems.  
+I’ve also been involved in **community and event leadership**, which taught me how to communicate, organize, and work with people from different backgrounds.
 
-I thrive in **hackathons**, love **community building**, and believe in learning by building 🚀  
-
----
-
-## 🏆 Highlights  
-
-- 🥇 **Winner – CellVerse Hackathon 2025**  
-- 👩‍💻 AI Developer Intern @ CellStrat & MirrorPhotos  
-- 🎯 Event Lead – NodeDotAI Techno-Cultural Club  
-- 👩‍🏫 Helped non-Kannadiga students learn Kannada  
+When I’m not coding, you’ll probably find me exploring ideas, helping people learn, or just figuring things out step by step.
 
 ---
 
-## 🚀 Featured Projects  
+## 🧠 What I’m Into Right Now  
 
-### 🔹 RetentionAI – Predict & Prevent App Uninstalls  
-- ML-based churn prediction using **Random Forest & XGBoost**  
-- **SHAP** explainability + actionable retention insights  
-- Dashboard for product teams  
-
-**Tech:** Python, ML, SHAP, SQL, Power BI  
+- Learning Machine Learning more deeply  
+- Exploring AI assistants & applied AI  
+- Writing cleaner, more understandable code  
+- Improving problem-solving with DSA  
 
 ---
 
-### 🔹 AI-Assisted Surgical Training System  
-🏆 *Hackathon Winning Project*  
-- AI analysis of **cataract surgery reports**  
-- Procedure & instrument recommendations  
-- Improves surgical decision-making  
+## 🛠️ Skills  
 
-**Tech:** Python, Streamlit, PyTorch, YOLO, MediaPipe  
+**Programming & Tools:**  
+Python · Java (Basic) · HTML · CSS · Git · GitHub  
 
----
+**Data Technologies:**  
+SQL · DBMS · Power BI  
 
-### 🔹 Smart Card System (NFC)  
-- Contactless smart card for efficient data access  
-- Secure and fast information exchange  
+**Libraries & Frameworks:**  
+Pandas · NumPy · Matplotlib  
 
-**Tech:** Python, MySQL, JavaScript  
+**Core Concepts:**  
+DSA · OOP · Machine Learning (Basics)  
 
 ---
 
-## 💻 Tech Stack  
+## 🚀 A Few Things I’ve Built  
 
-### Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Data & ML  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+- **RetentionAI** – predicting app uninstalls using ML  
+- **AI-Assisted Surgical Training System** – hackathon project (cataract domain)  
+- **Smart Card System (NFC)** – contactless data exchange  
 
 ---
 
@@ -78,13 +58,31 @@ I thrive in **hackathons**, love **community building**, and believe in learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vach-cmd&show_icons=true&theme=gotham" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vach-cmd&theme=gotham" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vach-cmd&show_icons=true&theme=gotham" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vach-cmd&theme=gotham" height="160"/>
 
 </div>
+
+---
+
+## 🌐 Let’s Connect  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vach-cmd&layout=compact&theme=gotham" height="160"/>
+<a href="https://www.linkedin.com/in/vachana-a-130602277">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Vach-cmd">
+<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:avachana0@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
+
+---
+
+✨ *Still learning. Still building. One step at a time.*
