@@ -1,9 +1,11 @@
 <div align="center">
 
-# Hi, I’m Vachana 👋  
-### AIML Student | Curious Builder | Hackathon Enthusiast  
+# Hi, I'm Vachana A 👋  
+### AIML Student | Learning by Building | Passionate
+**“ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ coding, ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ learning.”**
 
-<img src="https://raw.githubusercontent.com/Ashwinvalento/cartoon-avatar/master/lib/images/female/68.png" width="260"/>
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600" />
 
 </div>
 
@@ -11,46 +13,45 @@
 
 ## 💫 About Me  
 
-I’m a **6th-semester AIML student at BIT**, Bangalore, who genuinely enjoys learning by building things.  
-I like experimenting with **AI, data, and logic**, and I’m especially interested in how tech can solve **real, everyday problems**.
+🎓 B.E. in **Artificial Intelligence & Machine Learning**  
+📍 Bangalore Institute of Technology (BIT) | Class of 2026  
 
-Hackathons excite me because they push me to think fast, collaborate, and turn ideas into working systems.  
-I’ve also been involved in **community and event leadership**, which taught me how to communicate, organize, and work with people from different backgrounds.
-
-When I’m not coding, you’ll probably find me exploring ideas, helping people learn, or just figuring things out step by step.
-
----
-
-## 🧠 What I’m Into Right Now  
-
-- Learning Machine Learning more deeply  
-- Exploring AI assistants & applied AI  
-- Writing cleaner, more understandable code  
-- Improving problem-solving with DSA  
-
----
-
-## 🛠️ Skills  
-
-**Programming & Tools:**  
-Python · Java (Basic) · HTML · CSS · Git · GitHub  
-
-**Data Technologies:**  
-SQL · DBMS · Power BI  
-
-**Libraries & Frameworks:**  
-Pandas · NumPy · Matplotlib  
-
-**Core Concepts:**  
-DSA · OOP · Machine Learning (Basics)  
+I enjoy learning by **experimenting, building, and breaking things**.  
+I’m especially drawn to working with **data** - understanding it, visualising it, and using it to make better decisions.
 
 ---
 
 ## 🚀 A Few Things I’ve Built  
 
-- **RetentionAI** – predicting app uninstalls using ML  
-- **AI-Assisted Surgical Training System** – hackathon project (cataract domain)  
-- **Smart Card System (NFC)** – contactless data exchange  
+### 🔹 RetentionAI  
+Predicts app uninstalls using ML models and explainable insights.  
+
+### 🔹 AI-Assisted Surgical Training System  
+🏆 **Winner – CellVerse Hackathon 2025**  
+AI-powered analysis of cataract surgery requirements.  
+
+### 🔹 Smart Card System (NFC)  
+Contactless system for efficient and secure data access.  
+
+---
+
+## 💻 Tech Stack & Skills  
+
+### Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Data & ML  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+
+### Core Concepts  
+**DSA · OOP · Machine Learning (Basics) · DBMS · Power BI**
 
 ---
 
@@ -58,10 +59,23 @@ DSA · OOP · Machine Learning (Basics)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vach-cmd&show_icons=true&theme=gotham" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vach-cmd&theme=gotham" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vach-cmd&show_icons=true&theme=gotham" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vach-cmd&theme=gotham" height="180"/>
 
 </div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vach-cmd&layout=compact&theme=gotham" height="160"/>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring  
+
+Right now, I’m diving deeper into **Machine Learning and Data Science**, with a strong interest in **working with data, analysis, and visualisation**.  
+I’m also learning **web development** to better present insights and build complete, end-to-end projects.
 
 ---
 
@@ -85,4 +99,4 @@ DSA · OOP · Machine Learning (Basics)
 
 ---
 
-✨ *Still learning. Still building. One step at a time.*
+✨ *Always curious. Always building.*  
