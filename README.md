@@ -21,20 +21,6 @@ I’m especially drawn to working with **data** - understanding it, visualising 
 
 ---
 
-## 🚀 A Few Things I’ve Built  
-
-### 🔹 RetentionAI  
-Predicts app uninstalls using ML models and explainable insights.  
-
-### 🔹 AI-Assisted Surgical Training System  
-🏆 **Winner – CellVerse Hackathon 2025**  
-AI-powered analysis of cataract surgery requirements.  
-
-### 🔹 Smart Card System (NFC)  
-Contactless system for efficient and secure data access.  
-
----
-
 ## 💻 Tech Stack & Skills  
 
 ### Languages & Tools  
@@ -80,8 +66,6 @@ I’m also learning **web development** to better present insights and build com
 ---
 
 ## 🌐 Let’s Connect  
-
-<div align="center">
 
 <a href="https://www.linkedin.com/in/vachana-a-130602277">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
