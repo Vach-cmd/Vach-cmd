@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vachana A 👋  
+# Hi, I'm Vachana 👋  
 ### AIML Student | Learning by Building | Passionate
 **“ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ coding, ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ learning.”**
 
